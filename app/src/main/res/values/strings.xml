@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="plusBtnTxt">+</string>
+    <string name="minusBtnTxt">-</string>
+    <string name="counterTextViewHint">0</string>
+    <string name="Home">Home</string>
+    <string name="saved">Saved</string>
+    <string name="Account">Account</string>
+</resources>
